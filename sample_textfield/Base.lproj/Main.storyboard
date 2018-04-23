@@ -50,6 +50,12 @@
                         <color key="backgroundColor" red="0.98573692318075223" green="1" blue="0.21449164976626089" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="firstTextField" destination="BgK-oS-bnP" id="TX0-sA-Y9n"/>
+                        <outlet property="fourthTextField" destination="jxA-aw-JLF" id="crn-mk-4Mc"/>
+                        <outlet property="secondTextField" destination="Ty3-MV-wnO" id="Lde-yv-Ceu"/>
+                        <outlet property="thirdTextField" destination="gh8-gQ-1sG" id="DXS-jb-hl4"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
